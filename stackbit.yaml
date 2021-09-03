@@ -460,8 +460,6 @@ models:
               - no-repeat
             default: no-repeat
             description: Repeat the image to cover the whole area.
-      - name: ''
-        type: number
   team_section:
     type: object
     label: Team Section
