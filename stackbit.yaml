@@ -273,6 +273,7 @@ models:
         label: Seo
       - name: ''
         type: string
+        label: ''
   blog_feed_section:
     type: object
     label: Blog Feed Section
@@ -459,6 +460,8 @@ models:
               - no-repeat
             default: no-repeat
             description: Repeat the image to cover the whole area.
+      - name: ''
+        type: string
   team_section:
     type: object
     label: Team Section
