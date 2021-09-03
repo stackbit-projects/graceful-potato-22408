@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hello World
+    title: Hello Store Framework
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
